@@ -1,4 +1,4 @@
-## Data Analyst task (Challenge)
+### Data Analyst task (Challenge)
 
 - Identify reasons of profit declining in last few months
 - Using Adventure Works Cycles data base
@@ -8,6 +8,6 @@
 - Identify "lazy" Sales Persons
 - Identify "bad guys" in Products and track their movement during year 
 
-#Tools
+##Tools
 - Jupyter Notebook for calculation
 - LibreOffice for Presentation
