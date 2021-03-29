@@ -13,12 +13,13 @@
   - LibreOffice for Presentation
 
 ### Solution
-  If I had access to SQL Server Management Studio (and this data base) I would finish this task in 1 hour max (including potencial optimization).
-  This analysis could be done in several ways, using:
-    - Neseted queries
-    - Stored Procedures
-    - Temp tables
-    - CTE
-  If needed I would create covering Index for better performanse
+If I had access to SQL Server Management Studio (and this data base) I would finish this task in 1 hour max (including potencial optimization).
+This analysis could be done in several ways, using:
+- Neseted queries
+- Stored Procedures
+- Temp tables
+- CTE
+
+If needed I would create covering Index for better performanse
   
-  Since this is the fist time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need.
+Since this is the fist time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need.
