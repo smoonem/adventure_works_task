@@ -9,6 +9,7 @@
   - Identify "bad guys" in Products and track their movement during year 
 
 ### Tools
+  - Konsole for instalation
   - Jupyter Notebook for calculation
   - LibreOffice for Presentation
 
@@ -20,6 +21,6 @@ This analysis could be done in several ways, using:
 - Temp tables
 - CTE
 
-If needed I would create covering Index for better performanse
+If needed I would create covering Index for better performanse.
   
-Since this is the fist time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need.
+Since this is the **fist** time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need for this task.
