@@ -23,4 +23,5 @@ This analysis could be done in several ways, using:
 
 If needed I would create covering Index for better performanse.
   
-Since this is the **fist** time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need for this task.
+Since this is the **first** time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need for this task.
+I am sure that (similar to SQL approach) this task can be done in several ways in Python, but I din't want to spend more than 6 hours on this solution.
