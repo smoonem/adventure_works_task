@@ -1,4 +1,4 @@
-## Data Analyst task (Challenge)
+## Data Analyst task (The Code Challenge)
 
   - Identify reasons of profit declining in last few months
   - Using Adventure Works Cycles csv file
