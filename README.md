@@ -4,26 +4,29 @@
   - Using Adventure Works Cycles csv file
 
 ### Logical approach
-  - Find Sales Regons with small amount of orders
-  - Identify "lazy" Sales Persons
-  - Identify "bad guys" in Products and track their movement during year 
+	*	Establish the reasons for the reduced profit
+	*	Identify bad regions
+	*	Calculate negative margin products
+	*	Identify bad performance sellers
+	*	Track products with week orders
 
-### Tools
-  - Jupyter Notebook for calculation
-  - LibreOffice for Presentation
-
-### Solution
-If I had access to SQL Server Management Studio (and this data base) I would finish this task in 1 hour max (including potencial optimization).
+### Solution analysis
+If I had access to SQL Server Management Studio (and this data base) I would finish this task in 1 hour max (including potential optimization).
 This analysis could be done in several ways, using:
-- Neseted queries
+- Nested queries
 - Stored Procedures
 - Temp tables
 - CTE
 
-If needed I would create covering Index for better performanse.
+No need for creating covering Index (for better performance) since we have only 42k rows.
   
-Since this is the **first** time that I am using Jupyter Notebook and Python, I've used simple groupby logic to get what I need for this task.
-I am sure that (similar to SQL approach) this task can be done in several ways in Python, but I din't want to spend more than 6 hours on this solution.
+Since this is the **first** time that I am using Jupyter Notebook and Python (virtual enviroments as well), I've used simple groupby logic to get what I need for this task. At the end of previosly agreed 6th hour, I've started to format the output in Python.
+Kindly note that I've learned this on the way (during this task only).
+I am sure that (similar to SQL approach) this task can be done in several ways in Python, but I didn't want to spend more than 6 hours on this solution.
+
+### Tools
+  - Jupyter Notebook for calculation
+  - LibreOffice for Presentation
 
 ### Usage
 1. clone repo under desired directory
@@ -31,4 +34,4 @@ I am sure that (similar to SQL approach) this task can be done in several ways i
 3. python3 -m venv .venv
 4. source .venv/bin/activate
 5. pip install -r requirements.txt
-6. jupiter notebook 
+6. jupyter notebook 
