@@ -9,7 +9,6 @@
   - Identify "bad guys" in Products and track their movement during year 
 
 ### Tools
-  - Konsole for instalation
   - Jupyter Notebook for calculation
   - LibreOffice for Presentation
 
