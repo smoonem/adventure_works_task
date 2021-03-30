@@ -20,7 +20,7 @@ This analysis could be done in several ways, using:
 
 No need for creating covering Index (for better performance) since we have only 42k rows.
   
-Since this is the **first** time that I am using Jupyter Notebook and Python (virtual enviroments as well), I've used simple groupby logic to get what I need for this task. At the end of previosly agreed 6th hour, I've started to format the output in Python.
+Since this is the **first** time that I am using Jupyter Notebook and Python (virtual enviroments as well), I've used simple groupby logic and Pivot to get what I need for this task. At the end of previously agreed 6th hour, I've started to format the output in Python.
 Kindly note that I've learned this on the way (during this task only).
 I am sure that (similar to SQL approach) this task can be done in several ways in Python, but I didn't want to spend more than 6 hours on this solution.
 
